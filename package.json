@@ -1,0 +1,28 @@
+{
+  "name": "piilist",
+  "version": "0.1.0",
+  "description": "A list of _Personally Identifiable Information (PII)_ keys / words / phrases used for redaction or removal",
+  "license": "MPL-2.0",
+  "repository": "shellscape/piilist",
+  "author": "shellscape",
+  "homepage": "https://github.com/shellscape/piilist",
+  "bugs": "https://github.com/shellscape/piilist/issues",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "list.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "pii",
+    "personally",
+    "Identifiable",
+    "information",
+    "list",
+    "blacklist",
+    "whitelist",
+    "redact",
+    "remove"
+  ]
+}
