@@ -1,7 +1,7 @@
 {
   "name": "piilist",
   "version": "0.1.2",
-  "description": "A list of _Personally Identifiable Information (PII)_ keys / words / phrases used for redaction or removal",
+  "description": "A list of Personally Identifiable Information (PII) keys / words / phrases used for redaction or removal",
   "license": "MPL-2.0",
   "repository": "shellscape/piilist",
   "author": "shellscape",
@@ -10,10 +10,12 @@
   "main": "index.js",
   "files": [
     "index.js",
+    "index.d.ts",
     "list.json",
     "README.md",
     "LICENSE"
   ],
+  "types": "index.d.ts",
   "keywords": [
     "pii",
     "personally",
