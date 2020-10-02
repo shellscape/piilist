@@ -2,7 +2,7 @@
   "address",
   "alias",
   "authId",
-  "authpProviderId",
+  "authProviderId",
   "bankAccount",
   "birthDate",
   "birthday",
