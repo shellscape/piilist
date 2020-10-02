@@ -1,6 +1,6 @@
 {
   "name": "piilist",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A list of _Personally Identifiable Information (PII)_ keys / words / phrases used for redaction or removal",
   "license": "MPL-2.0",
   "repository": "shellscape/piilist",
